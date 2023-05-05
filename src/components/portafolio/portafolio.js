@@ -49,7 +49,7 @@ const Portafolio = () => {
                             Altamente capacitado en mejora progresiva, sistemas de diseño e ingenieria de interfaz de usuario
                         </Grid>
                         <Grid item xs={12}  md={6} pl={12} pt={4}>
-                            Meia decada de experiencia en la creacion de productos para diferentes clientes
+                            Con experiencia en la creacion de productos para diferentes clientes
                         </Grid>
 
                     </Grid>
@@ -82,18 +82,18 @@ const Portafolio = () => {
                 <Grid className='experiencie' container xs={12} >
                     <Grid item xs={12} md={4} ml={12}>
                         <Grid>
-                        <h1 className='title'>En los ultimos 5 años</h1>
+                        <h1 className='title'>En este ultimo año</h1>
 
                         </Grid>
                         <div>
                             <p>
-                                He creado productos para empresas y negocios de todo suramerica, desde sitios web de marketin
+                                Me he capacitado para la creación desde sitios web 
                             hasta soluciones complejas y aplicaciones empresariales centradas en experiencias de usuarios rapidas,
                              elegantes y accesibles.
                                 </p>
                             <p>
-                                Actualmente trabajo en un compañia para la entrega de medicanmentos como desarrollador full-stack nivel 3
-                                desarrollando aplicaciones en Vue.js, React.js para la parte del Frontend y Para el BackEnd Node.js, python 
+                                Actualmente estoy perfeccionandome cada día mas como desarrollador full-stack para seguir
+                                desarrollando webs con React.js o ReactVite para la parte del Frontend y Para el BackEnd Node.js.
                                 </p>
                         </div>
                     </Grid>
@@ -123,7 +123,7 @@ const Portafolio = () => {
                             </div>
                         </Grid >
                         <Grid mt={6} item>
-                            <a className="button button3" href='https://farmadomicilios.epssura.com/login' target="_blank" rel="noreferrer">Ver mis trabajos</a>
+                            <a className="button button3" href='https://github.com/andrmepe' target="_blank" rel="noreferrer">Ver mis trabajos</a>
                         </Grid>
                     </Grid >
                     <Grid  item ml={12} xs={8} md={4} >
